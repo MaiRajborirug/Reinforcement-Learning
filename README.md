@@ -1,2 +1,2 @@
 # Reinforcement-Learning
-Some work and project on reinforcement learning
+Some work and projects on reinforcement learning
